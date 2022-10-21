@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **ProCollab(tool for geeks to collaborate on projects)**
 
-- 🌱 I’m currently learning **d3.js, AWS Services and Apache Spark.**
+- 🌱 I’m currently learning **Computer Security and Operating Systems**
 
-- 🤝 I’m looking for summer internships 2022 **for software development, data analyst and data engineering roles.**
+- 🤝 I’m looking for full time roles starting summer 2023 **for software development, data analyst and data engineering roles.**
 
 - 👨‍💻 All of my projects are available at [https://anshdesai.github.io/](https://anshdesai.github.io/)
 

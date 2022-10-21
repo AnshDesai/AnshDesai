@@ -13,7 +13,7 @@
 
 - 📝 I often write articles on machine learning [https://medium.com/@anshdesai20](https://medium.com/@anshdesai20)
 
-- 💬 Ask me about **python, JavaScript , machine learning.**
+- 💬 Ask me about **Software Development, Machine Learning , Big Data and Cloud Computing.**
 
 - 📫 How to reach me **anshdesai20@gmail.com**
 

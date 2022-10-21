@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **anshdesai20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sYK-sEwXf3YRE357Cnd3PSCA_UC36E_Y/view?usp=sharing](https://drive.google.com/file/d/1sYK-sEwXf3YRE357Cnd3PSCA_UC36E_Y/view?usp=sharing)
-
 - ⚡ Curious about **algo trading**
 
 ### Blogs posts

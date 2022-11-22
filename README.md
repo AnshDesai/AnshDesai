@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdesai&label=Profile%20views&color=0e75b6&style=flat" alt="anshdesai" /> </p>
 
-- 🔭 I’m currently working on **ProCollab(tool for geeks to collaborate on projects)**
-
-- 🌱 I’m currently learning **Computer Security and Operating Systems**
+- 🌱 I’m currently learning **System Design for Software and Data Engineering**
 
 - 🤝 I’m looking for full time roles starting summer 2023 **for software development, data analyst and data engineering roles.**
 
@@ -13,7 +11,7 @@
 
 - 📝 I often write articles on machine learning [https://medium.com/@anshdesai20](https://medium.com/@anshdesai20)
 
-- 💬 Ask me about **Software Development, Machine Learning , Big Data and Cloud Computing.**
+- 💬 Ask me about **Software Development, Machine Learning, Big Data and Cloud Computing.**
 
 - 📫 How to reach me **anshdesai20@gmail.com**
 

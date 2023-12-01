@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdesai&label=Profile%20views&color=0e75b6&style=flat" alt="anshdesai" /> </p>
 
-- 🌱 I’m currently learning **System Design for Software and Data Engineering**
-
-- 🤝 I’m looking for full time roles starting summer 2023 **for software development, data analyst and data engineering roles.**
-
 - 👨‍💻 All of my projects are available at [https://anshdesai.github.io/](https://anshdesai.github.io/)
 
 - 📝 I often write articles on machine learning [https://medium.com/@anshdesai20](https://medium.com/@anshdesai20)
 
 - 💬 Ask me about **Software Development, Machine Learning, Big Data and Cloud Computing.**
 
-- 📫 How to reach me **anshdesai20@gmail.com**
+- 📫 How to reach me **desaisansh@gmail.com**
 
-- ⚡ Curious about **algo trading**
+- ⚡ Curious about **algorithmic trading**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

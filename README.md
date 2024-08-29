@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdesai&label=Profile%20views&color=0e75b6&style=flat" alt="anshdesai" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://anshdesai.github.io/](https://anshdesai.github.io/)
-
 - 📝 I often write articles on machine learning [https://medium.com/@anshdesai20](https://medium.com/@anshdesai20)
 
 - 💬 Ask me about **Software Development, Machine Learning, Big Data and Cloud Computing.**

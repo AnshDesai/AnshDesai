@@ -4,11 +4,11 @@
 
 - 📝 I often write articles on machine learning [https://medium.com/@anshdesai20](https://medium.com/@anshdesai20)
 
-- 💬 Ask me about **Software Development, Machine Learning, Big Data and Cloud Computing.**
+- 💬 **Software Development, Machine Learning, Big Data and Cloud Computing.**
 
 - 📫 How to reach me **desaisansh@gmail.com**
 
-- ⚡ Curious about **algorithmic trading**
+- ⚡ Curious about formative tactics ****
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

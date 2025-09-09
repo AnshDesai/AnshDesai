@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **desaisansh@gmail.com**
 
-- ⚡ Curious about tactical periodization ****
+- ⚡ Curious about tactical periodization 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -4,7 +4,7 @@
 
 - 📝 I often write articles on machine learning [https://medium.com/@anshdesai20](https://medium.com/@anshdesai20)
 
-- 💬 **Software Development, Machine Learning, Big Data and Cloud Computing.**
+- 💬 **Software Development,Machine Learning.**
 
 - 📫 How to reach me **desaisansh@gmail.com**
 
